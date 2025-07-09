@@ -1,0 +1,19 @@
+# VS Code files
+.vs
+
+# Hidden directory
+Assets/Hidden/
+
+# Generated directories
+Library/
+Logs/
+Temp/
+Mono/
+
+# Generated Files
+Assembly-CSharp-Editor.csproj
+*.csproj
+*.sln
+*.exe
+*.dll
+*.apk
